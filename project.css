@@ -1,0 +1,185 @@
+  
+  header{
+  	  width: 100%;
+  	  height: 60px;
+
+
+  }
+nav{
+	width: 100%;
+/*	border: 2px solid black;*/
+box-shadow: 0 0 10px 2px #000;
+	display: flex;
+	justify-content: space-around;
+	position: fixed;
+	height: 60px;
+	color: black;
+}
+nav h1{
+	text-shadow: 5px 6px 3px gold;
+	font-size: 30px;
+	margin-top: 10px;
+}
+.navbar ul{
+	list-style-type: none;
+
+}
+.navbar ul li{
+	margin-left: 400px;
+
+}
+.navbar ul li a{ padding: 5px;
+	border-radius: 5px ;
+	background: gold;
+	text-decoration: none;
+	font-size: 25px;
+	margin: 20px;
+	color: black;
+	}
+img{
+	width: 100%;
+	height: 600px;
+	
+}
+.contentMain{
+	background-size: cover;
+
+}
+.cotentText{
+	width: 30%;
+	position: absolute;
+	top: 200px;
+	left: 250px;
+	font-size: 35px;
+}
+.cotentText button a{
+	background: orange;
+/*	color: white;*/
+	border: none;
+	border-radius: 8px;
+	position: absolute;
+	top: 190px;
+	margin: 20px;
+	padding: 5px;
+
+}
+.space{
+	text-align: center;
+	width: 100%;
+	height: 80px;
+}
+.Roomsimg{
+
+	display: flex;
+	justify-content: space-evenly;
+	width: 100%;
+	flex-wrap: wrap;
+/*	height: 200px;*/
+/*	margin: 10px;*/
+
+}
+
+.Roomsimg img {
+	  width: 30%;
+	  margin: 10px;
+	  height: 300px;
+}
+.spaces{
+	font-size: 30px;
+	width: 100%;
+	height: 80px;
+	margin-left: 30px;
+}
+.blogs{
+	display: flex;
+	justify-content: space-evenly;
+	margin: 20px;
+
+}
+.theme img{
+	width: 100%;
+	height: 300px;
+
+}.theme {
+
+	width: 45%;
+	height: 300px;
+
+}
+
+.text {
+	width: 45%;
+	height: 300px;
+
+/*	border: 2px solid;*/
+	}
+
+
+/* --------------------------- footer start --------------------------	*/
+
+footer{
+	width: 100%;
+border: 2px solid;
+	height: 250px;
+	background: gray;
+    font-size: 25px;
+
+ 
+.footer{
+/* border: 2px solid #000;*/
+}
+
+
+.footer  .footerlist{
+/*	border: 2px solid;*/
+	width: 100%;
+	height: 100%;
+	display: flex;
+
+
+justify-content: space-evenly;
+}
+
+.footer  .footerlist .info{
+	   width: 30%;
+	   margin: 10px;
+/*	   border: 2px solid #000;*/
+
+}
+.footer  .footerlist .info li{
+/*	text-decoration: none;*/
+	font-size: 30px;
+
+}.footer  .footerlist .info  a{
+	margin: 10px;
+	text-decoration: none;
+	color: black;
+}
+.footer  .footerlist .info  a:hover{
+	text-shadow: 0 0 5px red;
+
+}
+
+
+	.icon{font-size: 40px;
+/*		margin-top:150px;*/
+		width: 30%;
+		height: 100%;
+/*		display: inline-block;*/
+/*		border: 2px solid;*/
+	}
+
+.icon1{
+	font-size: 17px;
+	margin-top:100px;
+		width: 30%;
+		height: 100%;
+/*		border: 2px solid;*/
+
+}
+
+
+
+
+
+
